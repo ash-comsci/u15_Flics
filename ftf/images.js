@@ -1,7 +1,8 @@
 // Replace src/full with your own paths, e.g. images/friday/photo1.jpg.
 // Keep id unique; day and category drive the gallery filters.
 window.galleryImages = [
-  {id:'01',day:'Friday',category:'Action Shots',caption:'Every touch. Every chance.',src:'images/whitby/',position:'center'},
+  {id:'01',day:'Friday',category:'Action Shots',caption:'Every touch. Every chance.',src:'images/scarborough/IMG_0293.JPG',position:'center'},
+  {id: 'friday-01', day: 'Friday', category: 'Action Shots', caption: 'Opening match', src: 'images/friday/photo1-preview.jpg', full: 'images/friday/photo1.jpg' },
   {id:'02',day:'Saturday',category:'Action Shots',caption:'Eyes on the next play.',src:'images/scarborough/IMG_0206JPG'},
   {id:'03',day:'Sunday',category:'Team Photos',caption:'Stronger together.',src:'https://images.unsplash.com/photo-1526232761682-d26e03ac148e?auto=format&fit=crop&w=1000&q=85'},
   {id:'04',day:'Friday',category:'Behind the Scenes',caption:'Before the first whistle.',src:'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1200&q=85'},
